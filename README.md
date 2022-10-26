@@ -1,9 +1,3 @@
-local placeId = game.PlaceId
-if placeId == 8122612051 then 
-    SVR = true 
-end
-
-if SVR then
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
@@ -11,4 +5,3 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
 
-end
